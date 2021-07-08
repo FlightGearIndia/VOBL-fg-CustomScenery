@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>77.686072</lon>
+      <lat>13.207164</lat>
+      <rwy>09L</rwy>
+      <hdg-deg>092</hdg-deg>
+      <elev-m>915.0096</elev-m>
+      <nav-id>IBAN</nav-id>
+      <freq>109.30</freq>
+    </ils>
+    <ils>
+      <lon>77.689978</lon>
+      <lat>13.189733</lat>
+      <rwy>09R</rwy>
+      <hdg-deg>092</hdg-deg>
+      <elev-m>906.1704</elev-m>
+      <nav-id>IBLN</nav-id>
+      <freq>109.90</freq>
+    </ils>
+    <ils>
+      <lon>77.722969</lon>
+      <lat>13.206847</lat>
+      <rwy>27R</rwy>
+      <hdg-deg>272</hdg-deg>
+      <elev-m>894.8928</elev-m>
+      <nav-id>IDEV</nav-id>
+      <freq>108.30</freq>
+    </ils>
+    <ils>
+      <lon>77.726872</lon>
+      <lat>13.189414</lat>
+      <rwy>27L</rwy>
+      <hdg-deg>272</hdg-deg>
+      <elev-m>903.732</elev-m>
+      <nav-id>IDVN</nav-id>
+      <freq>111.50</freq>
+    </ils>
+  </runway>
+</PropertyList>
+
+
+09L - IBAN 109.30
+27R- IDEV 108.30
+09R- IBLN 109.90
+27L- IDVN 111.50
+09L/27R is only CAT I compliant
+09R/27L is CAT III B compliant
